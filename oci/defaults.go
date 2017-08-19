@@ -27,6 +27,7 @@ func defaultCapabilities() []string {
 		"CAP_SYS_CHROOT",
 		"CAP_KILL",
 		"CAP_AUDIT_WRITE",
+		"CAP_IPC_LOCK",
 	}
 }
 
